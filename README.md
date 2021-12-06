@@ -17,3 +17,7 @@ entidade. Por exemplo:
 
 * A injeção de dependência pode ser feita por meio do padrão de projeto Factory
 ```
+
+<p align="center">
+    <img align="center" alt="GIF" src="./DAO.png" width="700" height="500" />
+</p>
