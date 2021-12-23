@@ -1,5 +1,11 @@
 # SQL_Demo-projeto-DAO
-Padrão de projeto DAO (Data Access Object)
+### Padrão de projeto DAO (Data Access Object)
+
+## Objetivo geral:
+#### * Conhecer os principais recursos do JDBC na teoria e prática
+#### * Elaborar a estrutura básica de um projeto com JDBC
+#### * Implementar o padrão DAO manualmente com JDBC
+
 
 ### Referências:
 https://www.devmedia.com.br/dao-pattern-persistencia-de-dados-utilizando-o-padrao-dao/30999
